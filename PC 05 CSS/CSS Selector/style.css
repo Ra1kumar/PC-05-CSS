@@ -1,0 +1,36 @@
+/* Main Title - red */
+#main-title {
+    text-align: center;
+    color: red;
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+
+/* Green headings */
+.green {
+    color: green;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+/* Blue heading */
+.blue {
+    color: blue;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+/* Paragraph styling */
+.para {
+    width: 80%;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+/* Highlighted span inside paragraphs */
+.highlight {
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
